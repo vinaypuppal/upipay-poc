@@ -17,7 +17,7 @@
     "@zeit/next-css": "0.2.1-canary.4",
     "clsx": "^1.0.4",
     "is-mobile": "^2.0.1",
-    "next": "^9.0.2",
+    "next": "^9.3.2",
     "qrcode.react": "^0.9.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
